@@ -1,0 +1,29 @@
+ody {font-family: Arial, Helvetica, sans-serif;}
+
+
+/* Set a style for all buttons */
+.open-button {
+  font-weight: bolder;
+  background-color: red;
+  color: white;
+  padding: 1px 10px;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
+
+.open-button:hover 
+{
+  opacity: 0.8;
+}
+
+
+.open-button:focus
+{
+  outline: none;
+}
+
+.btncancel:focus
+{
+  outline: none;
+}
